@@ -1,5 +1,5 @@
 {
-    "name": "hanson/vbot",
+    "name": "lichmaker/vbot",
     "type": "library",
     "description": "hanson/vbot 包兼容Laravel5.7版本",
     "keywords": [
@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "lichmaker",
-            "email": "licu.wu2014@gmail.com"
+            "name": "HanSon lichmaker",
+            "email": "h@hanc.cc lich.wu2014@gmail.com"
         }
     ],
     "bin": ["bin/vbot"],
