@@ -1,7 +1,7 @@
 {
-    "name": "hanson/vbot",
+    "name": "lichmaker/vbot",
     "type": "library",
-    "description": "高度自定义的微信机器人，能够实现群控制，自动回复，消息转发，防撤回，留言统计等功能",
+    "description": "hanson/vbot 包兼容Laravel5.7版本",
     "keywords": [
         "微信",
         "weixin",
@@ -11,8 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "HanSon",
-            "email": "h@hanc.cc"
+            "name": "HanSon lichmaker",
+            "email": "h@hanc.cc lich.wu2014@gmail.com"
         }
     ],
     "bin": ["bin/vbot"],
